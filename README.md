@@ -21,5 +21,6 @@
 	<p>Phone Number: <?php echo $phone_number; ?></p>
 	<p>Birthday: <?php echo $birthday; ?></p>
 	<p>Gender: <?php echo $gender; ?></p>
+	<a href="SignIn.html">Do you already have an account?</a>
 	</body>
 </html>
