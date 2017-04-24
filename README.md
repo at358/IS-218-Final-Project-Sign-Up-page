@@ -5,6 +5,7 @@
 	$last_name = $GET['last_name'];
 	$email = $GET['email'];
 	$phone_number = $GET['phone_number'];
+	$birthday = $GET['birthday'];
 ?> 
 <!DOCTYPE html>
 <html> 
@@ -17,5 +18,6 @@
 	<p>Last name: <?php echo $last_name; ?></p>
 	<p>Email Address: <?php echo $email; ?></p>
 	<p>Phone Number: <?php echo $phone_number; ?></p>
+	<p>Birthday: <?php echo $birthday; ?></p>
 	</body>
 </html>
