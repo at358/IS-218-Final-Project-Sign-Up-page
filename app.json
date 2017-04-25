@@ -1,0 +1,15 @@
+{
+  "name": "IS-218-Final-Project-Sign-Up",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
